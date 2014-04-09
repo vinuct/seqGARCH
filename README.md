@@ -1,0 +1,4 @@
+seqGARCH
+========
+
+An R package 
